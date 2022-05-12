@@ -34,3 +34,7 @@
         android:layout_marginTop="116dp"
         android:text="Click here to go to GitHub"
         android:onClick="link"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.589"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
